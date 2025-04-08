@@ -18,7 +18,7 @@ export default function Footer() {
               <span className="sr-only">GitHub</span>
             </Button>
           </Link>
-          <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.linkedin.com/in/luca-biordi-6706096a/" target="_blank" rel="noopener noreferrer">
             <Button size="icon" variant="ghost" className="hover:text-orange-500">
               <Linkedin className="h-4 w-4" />
               <span className="sr-only">LinkedIn</span>

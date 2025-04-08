@@ -22,7 +22,7 @@ export default function AboutPage() {
             <div className="space-y-2">
               <p className="text-muted-foreground">Email: lucabio84@gmail.com</p>
               <p className="text-muted-foreground">Location: Dubai, UAE</p>
-              <p className="text-muted-foreground">LinkedIn: linkedin.com/in/johndoe</p>
+              <p className="text-muted-foreground">LinkedIn: https://www.linkedin.com/in/luca-biordi-6706096a/</p>
             </div>
             <div className="flex gap-2">
               <Link href="/cv">

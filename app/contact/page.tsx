@@ -59,7 +59,7 @@ export default function ContactPage() {
               <Mail className="h-6 w-6 mt-1 text-orange-500" />
               <div>
                 <h3 className="font-medium">Email</h3>
-                <p className="text-muted-foreground">john.doe@example.com</p>
+                <p className="text-muted-foreground">lucabio89@gmail.com</p>
               </div>
             </div>
             <div className="flex items-start space-x-4">
@@ -73,7 +73,7 @@ export default function ContactPage() {
               <MapPin className="h-6 w-6 mt-1 text-orange-500" />
               <div>
                 <h3 className="font-medium">Location</h3>
-                <p className="text-muted-foreground">San Francisco, California</p>
+                <p className="text-muted-foreground">Dubai, United Arab Emirates</p>
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@ export default function ContactPage() {
                 <span className="sr-only">GitHub</span>
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/luca-biordi-6706096a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-orange-500 bg-background hover:bg-orange-500 hover:text-white"

@@ -52,7 +52,7 @@ export default function Home() {
                   <span className="sr-only">GitHub</span>
                 </Button>
               </Link>
-              <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/luca-biordi-6706096a/" target="_blank" rel="noopener noreferrer">
                 <Button size="icon" variant="ghost" className="text-white hover:text-orange-500 hover:bg-white/10">
                   <Linkedin className="h-5 w-5" />
                   <span className="sr-only">LinkedIn</span>
